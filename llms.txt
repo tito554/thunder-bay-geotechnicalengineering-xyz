@@ -1,0 +1,42 @@
+# Geotechnicalengineering — Thunder Bay
+
+> Geotechnical engineering services in Thunder Bay, Canada.
+
+## Services
+- [Atterberg Limits](https://thunder-bay.geotechnicalengineering.xyz/atterberg-limits/)
+- [Cbr Road](https://thunder-bay.geotechnicalengineering.xyz/cbr-road/)
+- [Cpt Test](https://thunder-bay.geotechnicalengineering.xyz/cpt-test/)
+- [Deep Excavations](https://thunder-bay.geotechnicalengineering.xyz/deep-excavations/)
+- [Excavation Monitoring](https://thunder-bay.geotechnicalengineering.xyz/excavation-monitoring/)
+- [Excavations](https://thunder-bay.geotechnicalengineering.xyz/excavations/)
+- [Flexible Pavement](https://thunder-bay.geotechnicalengineering.xyz/flexible-pavement/)
+- [Footings](https://thunder-bay.geotechnicalengineering.xyz/footings/)
+- [Foundations](https://thunder-bay.geotechnicalengineering.xyz/foundations/)
+- [Geophysics](https://thunder-bay.geotechnicalengineering.xyz/geophysics/)
+- [Grain Size](https://thunder-bay.geotechnicalengineering.xyz/grain-size/)
+- [Ground Improvement](https://thunder-bay.geotechnicalengineering.xyz/ground-improvement/)
+- [In Situ Permeability](https://thunder-bay.geotechnicalengineering.xyz/in-situ-permeability/)
+- [Investigation](https://thunder-bay.geotechnicalengineering.xyz/investigation/)
+- [Lab In Situ](https://thunder-bay.geotechnicalengineering.xyz/lab-in-situ/)
+- [Laboratory](https://thunder-bay.geotechnicalengineering.xyz/laboratory/)
+- [Liquefaction](https://thunder-bay.geotechnicalengineering.xyz/liquefaction/)
+- [Masw](https://thunder-bay.geotechnicalengineering.xyz/masw/)
+- [Mat Foundations](https://thunder-bay.geotechnicalengineering.xyz/mat-foundations/)
+- [Plate Load Test](https://thunder-bay.geotechnicalengineering.xyz/plate-load-test/)
+- [Road Geotechnics](https://thunder-bay.geotechnicalengineering.xyz/road-geotechnics/)
+- [Seismic](https://thunder-bay.geotechnicalengineering.xyz/seismic/)
+- [Seismic Isolation](https://thunder-bay.geotechnicalengineering.xyz/seismic-isolation/)
+- [Seismic Microzonation](https://thunder-bay.geotechnicalengineering.xyz/seismic-microzonation/)
+- [Slope Stability](https://thunder-bay.geotechnicalengineering.xyz/slope-stability/)
+- [Slopes](https://thunder-bay.geotechnicalengineering.xyz/slopes/)
+- [Stone Columns](https://thunder-bay.geotechnicalengineering.xyz/stone-columns/)
+- [Test Pits](https://thunder-bay.geotechnicalengineering.xyz/test-pits/)
+- [Triaxial](https://thunder-bay.geotechnicalengineering.xyz/triaxial/)
+- [Vibrocompaction](https://thunder-bay.geotechnicalengineering.xyz/vibrocompaction/)
+
+## Contact
+- Website: https://thunder-bay.geotechnicalengineering.xyz/
+
+## About
+This site provides geotechnical engineering services in Thunder Bay, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
